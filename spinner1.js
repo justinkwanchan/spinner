@@ -1,3 +1,6 @@
+// W02D2 - Spinner I
+// Let's practice some more with setTimeout, this time creating a low-fidelity loading spinner.
+
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
